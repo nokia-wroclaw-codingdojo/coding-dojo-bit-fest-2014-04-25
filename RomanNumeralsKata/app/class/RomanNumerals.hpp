@@ -1,5 +1,8 @@
 #pragma once
+#include<string>
 
-class Dummy
-{
+class RomanNumerals {
+public:
+    std::string Zamien(int liczba);
+
 };
